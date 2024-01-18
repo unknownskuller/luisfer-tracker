@@ -4,7 +4,7 @@ import time
 from platform import system
 
 class colores:
-    red="\033[35;1m"
+    red="\033[31;1m"
     os.system("clear")
 logo = colores.red + '''´´´´´´´´´´´´´´´´´´´´´´´´¶´´´´´´´´´¶´´´´´´´´´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´´´´¶´´´´´´´´´¶´´´´´´´´´´´´´´´´´´´´´´´´´
